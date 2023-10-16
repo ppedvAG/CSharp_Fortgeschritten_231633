@@ -1,4 +1,4 @@
-C# Fortgeschritten vom 25.09.2022 bis 27.09.2022. Trainer: Lukas Kern (LukasK@ppedv.de).
+C# Fortgeschritten vom 16.10.2023 bis 23.10.2023. Trainer: Lukas Kern (LukasK@ppedv.de).
 
 ## M000 | GETTING STARTED
 - [ ] Intro
