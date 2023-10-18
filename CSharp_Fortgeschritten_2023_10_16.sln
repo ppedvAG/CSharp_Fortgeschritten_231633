@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TopLevelStatements", "TopLe
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Generics", "Generics\Generics.csproj", "{8A32AE32-0ABF-453F-A225-4E12285BA6F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{01F8D758-F58C-4357-A364-23BFF2E82666}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DelegatesEvents", "DelegatesEvents\DelegatesEvents.csproj", "{01F8D758-F58C-4357-A364-23BFF2E82666}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialisierung", "Serialisierung\Serialisierung.csproj", "{EC412256-DD32-444F-9C35-0D51A1A4766B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{01F8D758-F58C-4357-A364-23BFF2E82666}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01F8D758-F58C-4357-A364-23BFF2E82666}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01F8D758-F58C-4357-A364-23BFF2E82666}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC412256-DD32-444F-9C35-0D51A1A4766B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC412256-DD32-444F-9C35-0D51A1A4766B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC412256-DD32-444F-9C35-0D51A1A4766B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC412256-DD32-444F-9C35-0D51A1A4766B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
